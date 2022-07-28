@@ -1,4 +1,4 @@
-import connector
+import db_connectors as connector
 import pandas as pd
 import lev_dist as levd
 import csv
